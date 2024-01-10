@@ -17,7 +17,7 @@ public class SalesPerson extends Employee {
 
     @Override
     public String toString() {
-        return super.toString() + "\n Sales Targets: " + salesTarget;
+        return super.toString() + "\nSales Targets: " + salesTarget;
     }
 
 }

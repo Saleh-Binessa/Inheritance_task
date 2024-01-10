@@ -19,6 +19,6 @@ public class Engineer extends Employee {
 
     @Override
     public String toString() {
-        return super.toString() + "\n Skills: " + Arrays.toString(skills);
+        return super.toString() + "\nSkills: " + Arrays.toString(skills);
     }
 }
